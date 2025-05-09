@@ -32,6 +32,8 @@ Console.ResetColor();
 Console.WriteLine("   • Generate release notes from commits");
 Console.WriteLine("   • View recent repository activity");
 Console.WriteLine("   • Just mention 'commits' or 'release notes'");
+Console.WriteLine("   • You can specify the number of commits (e.g., \'Show me 5 commits\')");
+
 
 Console.WriteLine();
 
